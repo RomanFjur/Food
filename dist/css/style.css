@@ -515,3 +515,24 @@ a {
     display: block;
     width: 280px;
     margin: 0 auto; }
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.1;
+  }
+  to {
+    opacity: 1;
+  }
+}
