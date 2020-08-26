@@ -1,7 +1,7 @@
 {
   "name": "food",
   "version": "1.0.0",
-  "description": "",
+  "description": "study project of Udemy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,5 +26,14 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "webpack-stream": "^5.2.1"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanFjur/Food.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RomanFjur/Food/issues"
+  },
+  "homepage": "https://github.com/RomanFjur/Food#readme"
 }
